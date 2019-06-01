@@ -1,14 +1,15 @@
 import React from 'react';
-import './App.scss';
+import Board from './components/Board';
+import SingleBox from './components/Board/SingleBox';
+import Status from './components/Status';
+import './lib/styles/App.scss';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          React JS
-        </p>
-      </header>
+      <Status />
+      <Board />
+      <SingleBox />
     </div>
   );
 }
