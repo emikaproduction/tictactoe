@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.00ce977a.chunk.js",
-    "main.js.map": "/static/js/main.00ce977a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.dc36cb67.chunk.js": "/static/js/2.dc36cb67.chunk.js",
-    "static/js/2.dc36cb67.chunk.js.map": "/static/js/2.dc36cb67.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.343c5a1c04003a5034d146b84a3e478c.js": "/precache-manifest.343c5a1c04003a5034d146b84a3e478c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
-    "static/media/logo.png": "/static/media/logo.fbcd6f0d.png",
-    "static/media/o-icon.png": "/static/media/o-icon.b92631f7.png",
-    "static/media/trophy-icon.png": "/static/media/trophy-icon.7f72d795.png",
-    "static/media/x-icon.png": "/static/media/x-icon.1d472015.png"
+    "main.css": "/tictactoe/static/css/main.34de6062.chunk.css",
+    "main.js": "/tictactoe/static/js/main.8218c4ae.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.8218c4ae.chunk.js.map",
+    "runtime~main.js": "/tictactoe/static/js/runtime~main.1cfd47c4.js",
+    "runtime~main.js.map": "/tictactoe/static/js/runtime~main.1cfd47c4.js.map",
+    "static/js/2.75808051.chunk.js": "/tictactoe/static/js/2.75808051.chunk.js",
+    "static/js/2.75808051.chunk.js.map": "/tictactoe/static/js/2.75808051.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.99b2c8098df5e4f27e5989906ac1b504.js": "/tictactoe/precache-manifest.99b2c8098df5e4f27e5989906ac1b504.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/tictactoe/static/css/main.34de6062.chunk.css.map",
+    "static/media/logo.png": "/tictactoe/static/media/logo.fbcd6f0d.png",
+    "static/media/o-icon.png": "/tictactoe/static/media/o-icon.b92631f7.png",
+    "static/media/trophy-icon.png": "/tictactoe/static/media/trophy-icon.7f72d795.png",
+    "static/media/x-icon.png": "/tictactoe/static/media/x-icon.1d472015.png"
   }
 }
