@@ -1,17 +1,6 @@
 import React from 'react';
-import Board from './components/Board';
-import SingleBox from './components/Board/SingleBox';
-import Status from './components/Status';
-import './lib/styles/App.scss';
+import Routes from './pages/routes';
 
-function App() {
-  return (
-    <div className="App">
-      <Status />
-      <Board />
-      <SingleBox />
-    </div>
-  );
-}
+const App = () => <Routes />;
 
 export default App;
